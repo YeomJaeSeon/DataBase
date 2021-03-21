@@ -2,7 +2,7 @@
 
 - mysql서버에 들어간다는건 `database server`에 들어가는것이다.
 - `database server`에는 여러개의 `database (= schema)`가 있다.
-- `databse (=schema)`에는 연관된 테이블들이 존재한다.(테이블은 표이다.)
+- `database (=schema)`에는 연관된 테이블(표)들이 존재한다.(테이블은 표이다.)
 
 즉 table들이 모여서 database(schema), database들이 모여서 database server(mysql)을 이루고있다.
 
